@@ -1,0 +1,31 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jun 26 14:17:48 2013
+;; Desktop file format version 206
+;; Emacs version 23.3.1
+
+;; Global section:
+(setq default-frame-alist '((alpha 90 70) (background-color . "#20091b") (background-mode . light) (border-color . "#1a1a1a") (cursor-color . "#fce94f") (foreground-color . "#d3bee0") (mouse-color . "black") (vertical-scroll-bars) (menu-bar-lines . 0) (tool-bar-lines . 0)))
+(setq nil nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/wachira/Programming/ruby/bot_server.rb"
+  "bot_server.rb"
+  'ruby-mode
+  '(yas-minor-mode auto-complete-mode)
+  19
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
