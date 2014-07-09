@@ -1,1170 +1,1170 @@
-((("site_name" .
-   [1 0 0 0 0 0 0 0 0])
-  ("get_current" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("objects" .
-   [1 0 0 0 0 0 0])
-  ("Site" .
-   [1 0 0 0])
-  ("download" .
-   [0 0 0 0 1 0 0 0])
-  ("authorize" .
-   [1 0 0 0 0 0 0 0 0])
-  ("create" .
-   [2 0 0 0 0 0])
-  ("only" .
-   [2 0 0 1])
-  ("verify_authenticity_token" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("skip_before_filter" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("expiry" .
-   [1 0 0 0 0 0])
-  ("volume" .
-   [1 0 0 0 0 0])
-  ("double_volume_purchased" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("volume_purchased" .
-   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
-  ("BONUS_PACKAGES" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("package_id" .
-   [1 0 0 0 0 0 0 1 0 0])
-  ("BONUS_PACKAGE_IDS" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("false" .
-   [1 0 0 0 0])
-  ("this" .
-   [3 0 0 0])
-  ("function" .
-   [0 0 0 0 1 1 0 0])
-  ("header_line" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("first_row" .
-   [0 0 0 0 0 2 0 0 0])
-  ("CSV" .
+((("cel" .
    [1 0 0])
-  ("Roo" .
-   [2 0 0])
-  ("original_filename" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("ignore" .
-   [1 0 0 0 1 0])
-  ("then" .
-   [3 0 0 0])
-  ("when" .
-   [3 0 0 0])
-  ("case" .
-   [1 0 0 0])
-  ("en" .
-   [3 0])
-  ("open_spreadsheet" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("header" .
+  ("celery" .
    [1 0 0 0 0 0])
-  ("Hash" .
-   [1 0 0 0])
-  ("row" .
-   [3 0 0])
-  ("spreadsheet" .
-   [1 0 0 0 0 0 4 0 0 0 0])
-  ("padding-right" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("age_network" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("max_age" .
-   [0 0 0 1 0 0 0])
-  ("5000" .
-   [1 0 0 0])
-  ("Age_On_network" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("error" .
-   [0 0 0 1 0])
-  ("flash" .
-   [0 0 0 1 0])
-  ("white" .
-   [0 0 1 0 0])
-  ("DB4327" .
-   [0 0 1 0 0 0])
-  ("FFF" .
-   [1 0 0])
-  ("background-color" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("join" .
-   [1 0 0 0])
-  ("photo_filename" .
-   [0 0 0 0 0 0 0 0 2 0 0 0 0 0])
-  ("PHOTO_STORE" .
-   [0 0 1 1 0 0 0 0 0 0 0])
-  ("last" .
-   [1 0 0 0])
-  ("extension" .
-   [0 0 0 0 0 2 1 0 0])
-  ("unless" .
-   [2 0 0 0 0 0])
-  ("photo" .
-   [0 0 0 0 1])
-  ("file_data" .
-   [0 0 0 0 6 1 0 0 0])
-  ("store_photo" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("string" .
-   [1 0 0 0 0 0])
-  ("people" .
-   [1 0 0 0 0 0])
-  ("thead" .
-   [1 0 0 0 0])
-  ("bold" .
-   [0 0 1 0])
-  ("small" .
-   [1 0 0 0 0])
-  ("table" .
-   [2 0 0 0 0])
-  ("margin-left" .
-   [0 0 0 0 0 0 0 0 0 1 0])
-  ("relative" .
-   [0 0 0 0 1 0 0 0])
-  ("position" .
-   [0 0 0 0 1 0 0 0])
-  ("100%" .
-   [0 0 0 1])
-  ("kwargs" .
-   [0 0 0 3 1 0])
-  ("type=" .
-   [1 0 0 0 0])
-  ("form" .
-   [0 0 0 1])
-  ("dialog" .
-   [1 0 0 0 0 0])
-  ("div" .
-   [1 0 0])
-  ("right" .
-   [2 0 1 0 0])
-  ("hover" .
-   [0 0 2 0 0])
-  ("ul" .
+  ("db" .
    [1 0])
-  ("none" .
-   [1 0 0 0])
-  ("text-decoration" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0])
-  ("blue" .
-   [0 1 0 0])
-  ("start_time" .
-   [0 0 0 0 1 3 2 0 0 0])
-  ("period" .
-   [1 0 0 0 0 1])
-  ("metric" .
-   [1 0 0 0 14 1])
-  ("HeartBeat" .
-   [0 0 0 0 1 2 0 0 0])
-  ("metricHandler" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("db_process_events" .
-   [0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("db_create_event" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("metrics" .
-   [1 0 0 0 0 1 1])
-  ("events" .
-   [2 0 0 0 1 0])
-  ("ripper" .
-   [1 0 0 0 0 0])
-  ("on_path" .
-   [0 0 1 1 0 0 0])
-  ("new" .
-   [4 0 0])
-  ("XmlRipper" .
-   [0 0 0 1 0 0 0 0 0])
-  ("element" .
-   [0 0 0 0 0 0 1])
-  ("XPath" .
-   [0 0 0 1 0])
-  ("run_path_actions" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("Document" .
-   [0 0 0 0 0 1 0 0])
-  ("xml_file_path" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("File" .
-   [5 0 0 0])
-  ("after_action" .
-   [0 0 0 0 0 0 2 0 0 0 0 0])
-  ("before_action" .
-   [0 0 0 0 1 0 0 0 1 0 0 0 0])
-  ("path" .
-   [5 0 0 1])
-  ("path_actions" .
-   [0 0 1 0 1 0 0 0 0 0 0 0])
-  ("block" .
-   [7 0 0 4 0])
-  ("doc" .
-   [1 0 0])
-  ("REXML" .
-   [0 0 0 3 0])
-  ("authors" .
-   [0 0 0 0 1 1 0])
-  ("open" .
-   [4 0 0 0])
-  ("proc_object" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("set_trace_func" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("klass" .
-   [0 0 0 1 0])
-  ("event" .
-   [2 0 0 1 0])
-  ("binding" .
-   [1 0 0 0 0 0 0])
-  ("proc" .
-   [4 0 0 0])
-  ("unbind" .
-   [0 0 0 1 0 0])
-  ("finally" .
-   [0 0 0 0 1 0 0])
-  ("user_pw" .
-   [0 0 0 0 1 0 0])
-  ("user_dn" .
-   [0 0 0 0 0 1 0])
-  ("and" .
-   [1 0 0])
-  ("ldap" .
-   [4 0 0 0])
-  ("add-to-list" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("sentence" .
-   [0 0 0 0 0 1 0 0])
-  ("document_words" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("features" .
-   [0 0 0 5 0 0 0 0])
-  ("word_features" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("document" .
-   [2 0 0 0 0 2 3 1])
-  ("set" .
-   [1 0 0])
-  ("all_words" .
-   [1 0 0 0 0 0 0 0 0])
-  ("movie_reviews" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("pretty_print" .
-   [0 0 0 1 1 0 0 0 0 0 0 0])
-  ("elt" .
-   [1 0 0])
-  ("format" .
-   [2 0 0 0 0 1])
-  ("id" .
-   [5 0])
-  ("idMap" .
-   [0 0 0 2 0])
-  ("sorted" .
-   [1 0 0 0 0 0])
-  ("SOURCE" .
-   [0 0 1 0 0 0])
-  ("tree" .
-   [1 0 0 0])
-  ("etree" .
-   [2 0 0 0 0])
-  ("lxml" .
-   [1 0 0 0])
-  ("cooling_rate" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("best_segs" .
-   [0 0 0 0 0 0 1 1 0])
-  ("best" .
-   [3 0 0 0])
-  ("score" .
-   [3 0 0 0 0])
-  ("guess" .
-   [2 0 2 5 1])
-  ("evaluate" .
-   [0 0 0 0 0 0 2 0])
-  ("round" .
-   [1 0 0 0 0])
-  ("flip_n" .
-   [1 0 0 0 0 0])
-  ("iterations" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("float" .
-   [1 0 0 1 0])
-  ("temperature" .
-   [0 0 0 2 1 2 0 0 0 0 0])
-  ("randint" .
-   [1 0 0 0 0 1 0])
-  ("flip" .
-   [1 0 0 0])
-  ("range" .
-   [4 0 0 0 0])
-  ("pos" .
-   [3 0 0])
-  ("segs" .
-   [17 0 0 0])
-  ("my_module" .
-   [0 0 0 0 0 1 0 0 0])
-  ("user_for_invalid_password" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("let" .
-   [1 0 0])
-  ("authenticate" .
-   [0 0 0 0 0 2 0 0 0 0 0 0])
-  ("found_user" .
-   [0 0 0 1 0 1 0 0 0 0])
-  ("User" .
-   [0 0 0 1])
-  ("save" .
-   [4 0 0 0])
-  ("nil" .
-   [6 0 0])
-  ("be_valid" .
-   [0 0 0 3 0 0 0 0])
-  ("should_not" .
-   [0 0 0 0 0 0 0 3 1 0])
-  ("before" .
-   [0 0 0 4 0 0])
-  ("describe" .
-   [0 0 0 0 6 0 0 0])
-  ("fibonacci_rpc" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("FibonacciRpcClient" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("None" .
-   [8 0 0 2])
-  ("while" .
-   [1 0 1 0 0])
-  ("reply_to" .
-   [0 0 0 0 1 0 0 0])
-  ("BasicProperties" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("properties" .
+  ("run_update" .
    [0 0 0 0 0 1 0 0 0 0])
-  ("routing_key" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("basic_publish" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("uuid" .
-   [1 0 0 1])
-  ("str" .
-   [5 0 0])
-  ("corr_id" .
-   [1 0 0 0 1 0 0])
-  ("corr_d" .
-   [0 0 0 0 1 0])
-  ("response" .
-   [2 0 0 0 2 5 0 0])
-  ("correlation_id" .
-   [0 0 0 0 1 2 0 0 0 0 0 0 0 0])
-  ("body" .
-   [3 0 0 0])
-  ("props" .
-   [1 0 0 0 1])
-  ("ch" .
-   [1 0])
-  ("on_response" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("callback_queue" .
-   [0 0 0 0 1 0 1 0 0 0 0 0 0 0])
-  ("no_ack" .
-   [1 0 0 0 0 0])
-  ("basic_consume" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("basic_ack" .
-   [0 0 0 1 0 0 0 0 0])
-  ("callback" .
-   [0 0 0 0 2 0 0 0])
-  ("binding_keys" .
-   [0 0 0 0 0 3 0 0 0 0 0 0])
-  ("not" .
-   [1 0 0])
-  ("password_confirmation" .
-   [0 0 0 0 0 0 0 0 0 6 0 1 2 0 0 0 0 0 0 0 0])
-  ("password" .
-   [0 0 0 0 10 0 0 0])
-  ("email" .
-   [2 0 0 3 0])
-  ("require" .
-   [1 0 0 4 0 2 0])
-  ("params" .
-   [5 0 3 1 12 1])
-  ("private" .
-   [1 0 0 0 0 2 0])
-  ("author" .
-   [0 0 0 0 2 0])
-  ("name" .
-   [5 0 0 0])
-  ("setup" .
-   [0 0 0 1 0])
-  ("except" .
-   [0 0 0 0 1 2])
-  ("ez_setup" .
-   [0 0 1 0 0 0 0 0])
-  ("try" .
-   [1 0 1])
-  ("menuDead" .
-   [1 0 0 0 0 0 1 0])
-  ("menuKilledTxt" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("ussdRequestString" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("menuKilled" .
-   [2 0 0 0 0 1 0 0 0 0])
-  ("pass" .
-   [3 0 0 0])
-  ("menuKillTxt" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("currentMenu" .
-   [0 0 0 0 1 1 0 0 2 0 0])
-  ("current" .
-   [0 0 0 1 1 0 0])
-  ("request" .
-   [2 0 0 8 1 0 0])
-  ("resources" .
-   [1 0 0 5 9 5 0 0 2])
-  ("resp" .
-   [0 0 0 6])
-  ("start" .
-   [2 0 0 0 1])
-  ("processAction" .
-   [1 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("menuKill" .
-   [0 0 0 0 0 2 0 0])
-  ("config" .
-   [3 0 0 2 1 0])
-  ("menuTxt" .
-   [0 0 0 1 1 3 0])
-  ("rstr" .
-   [0 0 0 1])
-  ("item" .
-   [5 0 0 0])
-  ("items" .
-   [4 0 0 6 0])
-  ("object" .
-   [6 0 0 0 2 0])
-  ("verbosity" .
-   [0 0 0 1 0 0 0 0 0])
-  ("TextTestRunner" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("loadTestsFromTestCase" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("TestLoader" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("suite" .
-   [1 0 0 1 0])
-  ("__name__" .
-   [0 0 0 0 0 1 0 0])
-  ("assertRaises" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("exception" .
-   [0 0 0 1 1 0 0 0 0])
-  ("args" .
-   [2 0 0 0])
-  ("elif" .
-   [1 0 0 2])
-  ("assertEquals" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("output" .
-   [0 0 0 2 0 0])
-  ("input" .
-   [1 0 0 3 0])
-  ("checkout_edge" .
-   [0 0 0 0 0 2 0 0 0 0 0 0 0])
-  ("edges" .
-   [1 0 2 6 0])
-  ("edge" .
-   [6 0 1 0])
-  ("4001" .
-   [1 0 0 0])
-  ("Exception" .
-   [0 0 0 1 2 1 0 0 0])
-  ("4000" .
-   [2 0 0 0])
-  ("convert_to_decimal" .
-   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("convert_to_roman" .
-   [0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0])
-  ("RomanNumeralConverter" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("cvt" .
-   [3 0 3])
-  ("setUp" .
-   [0 0 0 0 2])
-  ("TestCase" .
-   [0 0 0 0 0 1 0 0])
-  ("unittest" .
-   [0 0 0 0 1 2 0 0])
-  ("RomanNumeralTest" .
-   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("finger" .
-   [3 0 0 0 0 0])
-  ("getFingerFactory" .
-   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("get" .
-   [1 0 0])
-  ("succeed" .
-   [0 0 0 0 0 1 0])
-  ("call" .
-   [3 0 0 2])
-  ("stopService" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("startService" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("_read" .
-   [2 0 0 0 0])
-  ("strip" .
-   [3 0 0 0 0])
-  ("in" .
-   [16 0])
-  ("for" .
-   [15 0 0])
-  ("filename" .
-   [3 0 0 0 0 0 0 0])
-  ("Service" .
-   [0 0 0 0 2 0 1])
-  ("FingerService" .
-   [0 0 0 0 0 0 1 0 1 0 0 0 0])
-  ("addCallback" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("write" .
-   [3 0 0 0 0])
-  ("message" .
-   [1 0 0 1 2 4 0])
-  ("writeResponse" .
-   [0 0 0 1 0 0 1 0 0 0 0 0 0])
-  ("addErrback" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("return" .
-   [17 0 0 12 2 0])
-  ("err" .
-   [2 0 0])
-  ("onError" .
-   [0 0 2 0 0 0 0])
-  ("getUser" .
-   [2 0 0 0 2 1 0])
-  ("protocols" .
-   [0 0 0 0 0 1 0 1 0])
-  ("defer" .
-   [2 0 0 0 0])
-  ("file" .
-   [11 0 0 0])
-  ("from" .
-   [16 0 0 14])
-  ("twisted" .
-   [0 0 0 0 14 0 1])
-  ("internet" .
-   [0 0 0 0 0 12 0 0])
-  ("import" .
-   [15 0 1 11 18 2])
-  ("protocol" .
-   [0 0 0 1 0 11 0 0])
-  ("reactor" .
-   [0 0 0 0 13 0 0])
-  ("class" .
-   [7 0 1 6 2])
-  ("FingerProtocol" .
-   [0 0 0 1 0 0 3 1 0 0 0 0 0 0])
-  ("basic" .
-   [1 0 0 3 0])
-  ("def" .
-   [85 0 1])
-  ("self" .
-   [113 0 2 6])
-  ("transport" .
-   [0 0 0 2 1 4 0 0 0])
-  ("loseConnection" .
-   [0 0 0 0 3 0 0 0 0 0 0 0 0 0])
-  ("FingerFactory" .
-   [0 0 0 0 0 2 1 2 0 0 0 0 0])
-  ("ServerFactory" .
-   [0 0 0 0 0 0 3 0 0 0 0 0 0])
-  ("listenTCP" .
-   [0 0 0 0 0 1 0 0 0])
-  ("1079" .
-   [2 0 0 0])
-  ("run" .
-   [5 0 1])
-  ("user" .
-   [16 0 6 1])
-  ("else" .
-   [13 0 0 1])
-  ("LineReceiver" .
-   [0 0 0 0 3 0 0 0 0 0 0 0])
-  ("lineReceived" .
-   [0 0 0 0 0 0 0 0 2 0 0 0])
-  ("lines" .
-   [7 0 0 0 0])
-  ("line" .
-   [4 0 0 0])
-  ("factory" .
-   [0 0 0 0 2 0 0])
-  ("status" .
-   [2 0 0 0 9 0])
-  ("FingerSetterProtocol" .
-   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("__init__" .
-   [0 0 0 0 1 5 0 0])
-  ("fingerFactory" .
-   [0 0 1 0 0 0 2 0 0 0 0 0 0])
-  ("setUser" .
-   [0 0 0 0 0 1 0])
-  ("users" .
-   [3 0 0 1 0])
-  ("moshez" .
-   [1 0 0 0 0 0])
-  ("FingerSetterFactory" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("application" .
-   [0 0 0 0 2 1 1 0 0 0 0])
-  ("service" .
-   [1 0 0 1 8 2 0])
-  ("Application" .
-   [0 0 0 0 5 0 0 0 0 0 0])
-  ("uid" .
-   [2 0 0])
-  ("gid" .
-   [2 0 0])
-  ("IServiceCollection" .
-   [0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("TCPServer" .
-   [0 0 0 1 2 0 0 0 0])
-  ("79" .
-   [2 0])
-  ("setServiceParent" .
-   [0 0 0 1 2 0 1 0 0 0 0 0 0 0 0 0])
-  ("serviceCollection" .
-   [0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("fsf" .
-   [1 0 0])
-  ("xml" .
-   [1 0 0])
-  ("xmlrpc" .
-   [0 0 0 0 0 1])
-  ("server" .
-   [3 0 0 0 0 1])
-  ("xmlrpclib" .
-   [0 0 0 0 0 0 0 1 0])
-  ("print" .
-   [32 0 0 0 1])
-  ("text" .
-   [18 0 1 3])
-  ("connectionMade" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("len" .
-   [4 0 0])
-  ("data" .
-   [2 0 1 1])
-  ("int" .
-   [7 0 0])
-  ("fieldLength" .
-   [0 0 0 0 0 4 0 0 0 0 0])
-  ("words" .
-   [5 0 0 1 0])
-  ("chars" .
-   [2 0 0 1 0])
-  ("receiveCounts" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("WCProcessProtocol" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("wcProcess" .
-   [0 0 0 1 0 0 0 0 0])
-  ("sys" .
-   [10 0 2])
-  ("argv" .
-   [3 0 0 0])
-  ("python" .
-   [0 0 0 0 4 0])
-  ("amp" .
-   [1 0 0])
-  ("AMP" .
-   [0 0 2])
-  ("Factory" .
-   [0 0 0 0 2 0 0])
-  ("endpoint" .
-   [0 0 0 1 2 0 0 0])
-  ("endpoints" .
-   [1 0 0 0 0 0 0 0 0])
-  ("TCP4ServerEndpoint" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("TCP4ClientEndpoint" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("8750" .
-   [1 0 0 0])
-  ("connect" .
-   [0 0 0 0 0 1 1])
-  ("startLogging" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("stdout" .
-   [0 0 0 0 1 0])
-  ("stop" .
-   [2 0 0 0])
-  ("done" .
-   [1 0 0 0])
-  ("raise" .
-   [2 0 0 0 0])
-  ("main" .
-   [1 0 0 0])
-  ("index" .
-   [9 0 0 1 1])
-  ("price" .
-   [3 0 0 1 2])
-  ("sum" .
-   [1 0 0])
-  ("sum_price" .
-   [0 0 0 0 1 0 0 0 0])
-  ("sales_tax" .
-   [0 0 0 0 1 0 0 0 0])
-  ("Item" .
-   [0 0 0 1])
-  ("if" .
-   [11 0])
-  ("nose" .
-   [1 0 0 0])
-  ("menuEnd" .
-   [1 0 0 0 0 0 0])
-  ("usr" .
-   [0 0 3])
-  ("bin" .
-   [0 0 3])
-  ("env" .
-   [0 0 3])
-  ("pika" .
-   [7 0 0 0])
-  ("connection" .
-   [0 0 0 0 0 2 9 0 0 0])
-  ("BlockingConnection" .
-   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("ConnectionParameters" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("host" .
-   [2 0 0 0])
-  ("channel" .
-   [0 0 0 1 1 4 4])
-  ("exchange" .
-   [0 0 0 0 0 2 2 0])
-  ("exchange_declare" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("type" .
-   [3 0 0 0])
-  ("result" .
-   [2 0 0 0 3 1])
-  ("queue" .
-   [0 0 2 4 1])
-  ("queue_declare" .
-   [0 0 0 0 0 0 0 0 0 2 0 0 0])
-  ("exclusive" .
-   [0 0 0 0 0 1 1 0 0])
-  ("True" .
-   [6 0 3 0])
-  ("queue_name" .
-   [0 0 0 0 0 0 0 1 0 0])
-  ("method" .
-   [1 0 0 0 2 0])
-  ("redirect_to" .
-   [0 0 0 0 0 0 2 0 0 0 0])
-  ("post" .
-   [1 0 0 0])
-  ("it" .
-   [2 0])
-  ("do" .
-   [22 0])
-  ("visit" .
-   [0 0 0 0 1])
-  ("page" .
-   [4 0 0 0])
-  ("should" .
-   [2 0 0 1 0 1])
-  ("have_selector" .
-   [0 0 0 0 0 0 3 0 0 0 1 0 0])
-  ("click_link" .
-   [0 0 0 0 2 0 1 0 0 0])
-  ("p" .
-   [3])
-  ("define-key" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("kbd" .
-   [1 0 0])
-  ("dict" .
-   [2 0 0 0])
-  ("word" .
-   [14 0 2 1])
-  ("max" .
-   [1 0 0])
-  ("wordlist" .
-   [0 0 0 0 0 1 0 0])
-  ("nltk" .
-   [7 0 0 0])
-  ("baseline_tagger" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("list" .
-   [1 0 0 0])
-  ("brown" .
-   [1 0 0 1 1])
-  ("categories" .
-   [1 0 0 0 0 1 0 0 0 0])
-  ("pylab" .
-   [1 0 0 3 2])
-  ("perfomance" .
-   [0 0 0 0 0 0 0 1 0 0])
-  ("words_by_freq" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("size" .
-   [1 0 0 0])
-  ("sizes" .
-   [1 0 0 0 1])
-  ("perfs" .
-   [0 0 0 1 0])
-  ("display" .
-   [0 0 0 0 0 1 0])
-  ("define" .
-   [5 0 0 2 1 0])
-  ("abs" .
-   [1 0 0])
-  ("square" .
-   [1 0 0 0 1 0])
-  ("average" .
-   [0 0 0 0 0 1 0])
-  ("sqrt" .
-   [0 0 0 3])
-  ("good-enough?" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("sqrt-iter" .
-   [0 0 0 1 0 1 1 0 0])
-  ("improve" .
-   [0 0 0 0 1 0 0])
-  ("cond" .
-   [1 0 0 0])
-  ("predicate" .
-   [0 0 0 0 1 0 0 0 0])
-  ("then-clause" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("else-clause" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("sqrt-iter-new" .
-   [1 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("1.0" .
-   [1 0 0])
-  ("font-size" .
-   [0 0 0 0 0 1 1 0 0])
-  ("15px" .
-   [3 0 0 0])
-  ("0" .
-   [5])
-  ("3em" .
-   [1 0 0])
-  ("100px" .
-   [2 0 0 0 0])
-  ("auto" .
-   [1 0 0 0])
-  ("modlist" .
-   [1 0 0 0 1 0 0])
-  ("msisdn" .
-   [0 0 0 0 1 0])
-  ("nodeName" .
-   [0 0 0 0 1 0 0 0])
-  ("add_s" .
+  ("False" .
    [1 0 0 0 0])
-  ("base" .
-   [1 0 0 0])
-  ("addModlist" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("attributes" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("105" .
-   [1 0 0])
-  ("EM" .
-   [6 0])
-  ("puts" .
-   [13 0 0 0])
-  ("add_timer" .
-   [1 0 0 0 0 0 0 1 0])
-  ("add_periodic_timer" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("web" .
-   [2 0 0])
-  ("Resource" .
-   [0 0 0 2 1 0 0 0])
-  ("Hello" .
-   [2 0 0 0 0])
-  ("isLeaf" .
-   [0 0 0 0 1 0])
-  ("getChild" .
-   [2 0 0 0 0 0 0 0])
-  ("render_GET" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("resource" .
+  ("update" .
+   [1 0 0 0 1 1])
+  ("insert" .
+   [1 0 0 0 0 1])
+  ("word_count" .
+   [0 0 0 0 0 1 1 0 0 0])
+  ("messages" .
    [1 0 0 0 0 0 0 0])
-  ("threads" .
-   [1 0 0 0 0 1 0])
-  ("deferToThread" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("retvalue" .
-   [0 0 0 2 4 1 0 0])
-  ("taskId" .
-   [0 0 0 1 0 0])
-  ("generateVoucher" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("numberOfVouchers" .
-   [0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("activationCode" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("activationCodeLength" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("Generate" .
-   [0 0 0 0 0 1 0 0])
-  ("random" .
-   [1 0 0 0 0 0])
-  ("range_start" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("range_end" .
-   [1 0 0 0 0 0 0 0 0])
-  ("random_with_N_digits" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("generatedVouchers" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("count" .
-   [2 0 0 0 0])
-  ("serialNumber" .
-   [0 0 0 3 0 0 1 0 0 0 0 0])
-  ("insertVouchersToDB" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("connectionPool" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("acquire" .
-   [0 0 0 1 0 0 0])
-  ("cursor" .
-   [1 0 0 0 0 1])
-  ("voucher" .
+  ("info" .
+   [1 0 0 0])
+  ("logging" .
    [1 0 0 0 0 0 0])
-  ("value" .
-   [3 0 0 1 0])
-  ("key" .
-   [4 0 0])
-  ("del" .
+  ("padding-left" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("1" .
+   [1])
+  ("left" .
+   [1 0 0 0])
+  ("hello_pdf" .
+   [0 0 0 0 0 0 2 0 0])
+  ("don" .
+   [1 0 0])
+  ("100" .
    [2 0 0])
-  ("is" .
+  ("on" .
    [1 0])
-  ("unique" .
-   [0 0 0 6 6 0])
-  ("split" .
-   [1 0 0 0 1])
-  ("TextCompressor" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("compressor" .
-   [0 0 0 0 2 0 0 0 0 0])
-  ("unique_word_array" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("word_index" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("unique_index_of" .
-   [0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
-  ("add_unique_word" .
-   [0 0 0 1 0 0 1 0 0 0 0 0 0 0 0])
-  ("add_text" .
-   [0 0 0 1 0 0 0 0])
-  ("each" .
-   [2 0 0 1])
-  ("add_word" .
-   [0 0 0 0 0 1 0 0])
-  ("75" .
+  ("canvas" .
+   [0 0 0 0 0 1])
+  ("as" .
+   [2 0])
+  ("us" .
    [1 0])
-  ("submit_response_time" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("handle_service_event" .
-   [0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("request_id" .
-   [1 0 0 0 0 0 0 0 1 0])
-  ("service_name" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("service_details" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("handle_event" .
-   [0 0 0 0 0 0 0 0 0 0 1 0])
-  ("handle_event_ns" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 1])
-  ("process_events" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("process_event" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("process_event_ns" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("ccc" .
+  ("content_type" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("the" .
    [1 0 0])
-  ("000000" .
-   [0 0 0 1 0 0])
-  ("person" .
-   [1 0 0 0 0 0])
-  ("Person" .
-   [0 0 0 0 1 0])
-  ("find" .
+  ("with" .
    [1 0 0 0])
-  ("Award" .
-   [0 0 0 1 0])
-  ("award" .
-   [0 0 0 0 1])
-  ("true" .
-   [3 0 0 1])
-  ("action_mailer" .
-   [0 0 0 0 0 1 1 0 0 0 0 0 0])
-  ("sign_out" .
-   [0 0 0 0 0 0 1 0])
-  ("current_user" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("cookies" .
-   [0 0 0 0 0 1 0])
-  ("delete" .
-   [1 0 0 0 0 0])
-  ("remember_token" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("black" .
-   [0 0 0 1 0])
-  ("user_type" .
-   [0 0 0 0 1 0 0 0 0])
-  ("to_s" .
-   [1 0 0 0])
-  ("center" .
-   [4 0 0 0 0 0])
-  ("destroy_student_days" .
-   [0 0 0 1 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("destroy" .
-   [0 0 1 4 0 1 0])
-  ("dependent" .
-   [0 0 0 0 2 0 0 1 0])
-  ("before_destroy" .
-   [0 0 0 0 0 0 2 0 0 0 1 0 0 0])
-  ("CenterDay" .
-   [1 0 0 0 0 0 0 0 1])
-  ("Student" .
-   [1 0 0 0 0 1 1])
-  ("student_days" .
-   [0 0 0 0 0 0 2 1 0 0 0 0])
-  ("clear" .
-   [3 0 0 0 0])
-  ("has_many" .
-   [0 0 0 0 1 0 0 0])
-  ("through" .
-   [1 0 0 0 0 0 0])
-  ("center_days" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("StudentDay" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("destroy_all" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("record" .
-   [0 0 0 1 0 0])
-  ("Parent" .
-   [2 0 1 0 0 0])
-  ("parent" .
-   [5 0 0 0 2 0])
-  ("student" .
-   [4 0 0 0 0 1 0])
-  ("student_day_count_valid?" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("students_attributes" .
-   [0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("newstudent" .
-   [0 0 0 2 1 1 0 0 0 0])
-  ("exists?" .
-   [0 0 0 0 0 1 0])
-  ("respond_to" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("attrs" .
-   [11 0 0 0 0])
-  ("parent_id" .
-   [3 0 0 0 0 0 1 0 0])
-  ("student_params" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("permit" .
-   [1 0 0 0 0 0])
-  ("student_params_old_parent" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("deep_dup" .
-   [0 0 0 0 1 0 0 0])
-  ("check_center_match" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Instructor" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("instructor" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("errors" .
-   [1 0 0 0 0 0])
-  ("add" .
-   [1 0 0])
-  ("django" .
-   [0 0 0 0 1 0])
-  ("shortcuts" .
-   [0 0 0 1 0 0 0 0 0])
-  ("render" .
-   [1 0 0 0 0 0])
-  ("models" .
-   [1 0 0 0 0 0])
-  ("Book" .
-   [2 0 0 0])
-  ("search" .
+  ("books_by_publisher" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("my_image" .
+   [1 0 0 1 0 0 0 0])
+  ("image_data" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("HttpResponse" .
+   [0 0 0 0 0 0 1 1 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("render_to_response" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("results" .
+   [0 0 0 0 2 0 0])
+  ("qset" .
+   [0 0 0 1])
+  ("filter" .
    [1 0 0 0 0 0])
   ("query" .
    [4 0 1 0 0])
-  ("filter" .
+  ("search" .
    [1 0 0 0 0 0])
-  ("qset" .
-   [0 0 0 1])
-  ("results" .
-   [0 0 0 0 2 0 0])
-  ("render_to_response" .
-   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("global-set-key" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("HttpResponse" .
-   [0 0 0 0 0 0 1 1 0 0 0 0])
-  ("image_data" .
-   [0 0 0 0 0 0 0 0 1 0])
-  ("my_image" .
-   [1 0 0 1 0 0 0 0])
-  ("books_by_publisher" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("with" .
-   [1 0 0 0])
-  ("the" .
+  ("Book" .
+   [2 0 0 0])
+  ("models" .
+   [1 0 0 0 0 0])
+  ("render" .
+   [1 0 0 0 0 0])
+  ("shortcuts" .
+   [0 0 0 1 0 0 0 0 0])
+  ("django" .
+   [0 0 0 0 1 0])
+  ("add" .
    [1 0 0])
-  ("content_type" .
-   [0 0 0 0 0 0 0 1 0 0 0 0])
-  ("us" .
-   [1 0])
-  ("as" .
-   [2 0])
-  ("canvas" .
-   [0 0 0 0 0 1])
-  ("on" .
-   [1 0])
-  ("100" .
-   [2 0 0])
-  ("don" .
-   [1 0 0])
-  ("hello_pdf" .
-   [0 0 0 0 0 0 2 0 0])
-  ("left" .
-   [1 0 0 0])
-  ("1" .
-   [1])
-  ("padding-left" .
-   [0 0 0 0 0 0 0 0 1 0 0 0])
-  ("logging" .
-   [1 0 0 0 0 0 0])
-  ("info" .
-   [1 0 0 0])
-  ("messages" .
-   [1 0 0 0 0 0 0 0])
-  ("word_count" .
-   [0 0 0 0 0 1 1 0 0 0])
-  ("insert" .
-   [1 0 0 0 0 1])
-  ("update" .
-   [1 0 0 0 1 1])
-  ("False" .
-   [1 0 0 0 0])
-  ("run_update" .
+  ("errors" .
+   [1 0 0 0 0 0])
+  ("instructor" .
    [0 0 0 0 0 1 0 0 0 0])
-  ("db" .
-   [1 0])
-  ("celery" .
+  ("Instructor" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("check_center_match" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("deep_dup" .
+   [0 0 0 0 1 0 0 0])
+  ("student_params_old_parent" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("permit" .
    [1 0 0 0 0 0])
-  ("cel" .
-   [1 0 0])))
+  ("student_params" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("parent_id" .
+   [3 0 0 0 0 0 1 0 0])
+  ("attrs" .
+   [11 0 0 0 0])
+  ("respond_to" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("exists?" .
+   [0 0 0 0 0 1 0])
+  ("newstudent" .
+   [0 0 0 2 1 1 0 0 0 0])
+  ("students_attributes" .
+   [0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("student_day_count_valid?" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("student" .
+   [4 0 0 0 0 1 0])
+  ("parent" .
+   [5 0 0 0 2 0])
+  ("Parent" .
+   [2 0 1 0 0 0])
+  ("record" .
+   [0 0 0 1 0 0])
+  ("destroy_all" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("StudentDay" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("center_days" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("through" .
+   [1 0 0 0 0 0 0])
+  ("has_many" .
+   [0 0 0 0 1 0 0 0])
+  ("clear" .
+   [3 0 0 0 0])
+  ("student_days" .
+   [0 0 0 0 0 0 2 1 0 0 0 0])
+  ("Student" .
+   [1 0 0 0 0 1 1])
+  ("CenterDay" .
+   [1 0 0 0 0 0 0 0 1])
+  ("before_destroy" .
+   [0 0 0 0 0 0 2 0 0 0 1 0 0 0])
+  ("dependent" .
+   [0 0 0 0 2 0 0 1 0])
+  ("destroy" .
+   [0 0 1 4 0 1 0])
+  ("destroy_student_days" .
+   [0 0 0 1 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("center" .
+   [4 0 0 0 0 0])
+  ("to_s" .
+   [1 0 0 0])
+  ("user_type" .
+   [0 0 0 0 1 0 0 0 0])
+  ("black" .
+   [0 0 0 1 0])
+  ("remember_token" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("delete" .
+   [1 0 0 0 0 0])
+  ("cookies" .
+   [0 0 0 0 0 1 0])
+  ("current_user" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("sign_out" .
+   [0 0 0 0 0 0 1 0])
+  ("action_mailer" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("true" .
+   [3 0 0 1])
+  ("award" .
+   [0 0 0 0 1])
+  ("Award" .
+   [0 0 0 1 0])
+  ("find" .
+   [1 0 0 0])
+  ("Person" .
+   [0 0 0 0 1 0])
+  ("person" .
+   [1 0 0 0 0 0])
+  ("000000" .
+   [0 0 0 1 0 0])
+  ("ccc" .
+   [1 0 0])
+  ("process_event_ns" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("process_event" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("process_events" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("handle_event_ns" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("handle_event" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("service_details" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("service_name" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("request_id" .
+   [1 0 0 0 0 0 0 0 1 0])
+  ("handle_service_event" .
+   [0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("submit_response_time" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("75" .
+   [1 0])
+  ("add_word" .
+   [0 0 0 0 0 1 0 0])
+  ("each" .
+   [2 0 0 1])
+  ("add_text" .
+   [0 0 0 1 0 0 0 0])
+  ("add_unique_word" .
+   [0 0 0 1 0 0 1 0 0 0 0 0 0 0 0])
+  ("unique_index_of" .
+   [0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("word_index" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("unique_word_array" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("compressor" .
+   [0 0 0 0 2 0 0 0 0 0])
+  ("TextCompressor" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("split" .
+   [1 0 0 0 1])
+  ("unique" .
+   [0 0 0 6 6 0])
+  ("is" .
+   [1 0])
+  ("del" .
+   [2 0 0])
+  ("key" .
+   [4 0 0])
+  ("value" .
+   [3 0 0 1 0])
+  ("voucher" .
+   [1 0 0 0 0 0 0])
+  ("cursor" .
+   [1 0 0 0 0 1])
+  ("acquire" .
+   [0 0 0 1 0 0 0])
+  ("connectionPool" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("insertVouchersToDB" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("serialNumber" .
+   [0 0 0 3 0 0 1 0 0 0 0 0])
+  ("count" .
+   [2 0 0 0 0])
+  ("generatedVouchers" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("random_with_N_digits" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("range_end" .
+   [1 0 0 0 0 0 0 0 0])
+  ("range_start" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("random" .
+   [1 0 0 0 0 0])
+  ("Generate" .
+   [0 0 0 0 0 1 0 0])
+  ("activationCodeLength" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("activationCode" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("numberOfVouchers" .
+   [0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("generateVoucher" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("taskId" .
+   [0 0 0 1 0 0])
+  ("retvalue" .
+   [0 0 0 2 4 1 0 0])
+  ("deferToThread" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("threads" .
+   [1 0 0 0 0 1 0])
+  ("resource" .
+   [1 0 0 0 0 0 0 0])
+  ("render_GET" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("getChild" .
+   [2 0 0 0 0 0 0 0])
+  ("isLeaf" .
+   [0 0 0 0 1 0])
+  ("Hello" .
+   [2 0 0 0 0])
+  ("Resource" .
+   [0 0 0 2 1 0 0 0])
+  ("web" .
+   [2 0 0])
+  ("add_periodic_timer" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("add_timer" .
+   [1 0 0 0 0 0 0 1 0])
+  ("puts" .
+   [13 0 0 0])
+  ("EM" .
+   [6 0])
+  ("105" .
+   [1 0 0])
+  ("attributes" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("addModlist" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("base" .
+   [1 0 0 0])
+  ("add_s" .
+   [1 0 0 0 0])
+  ("nodeName" .
+   [0 0 0 0 1 0 0 0])
+  ("msisdn" .
+   [0 0 0 0 1 0])
+  ("modlist" .
+   [1 0 0 0 1 0 0])
+  ("auto" .
+   [1 0 0 0])
+  ("100px" .
+   [2 0 0 0 0])
+  ("3em" .
+   [1 0 0])
+  ("0" .
+   [5])
+  ("15px" .
+   [3 0 0 0])
+  ("font-size" .
+   [0 0 0 0 0 1 1 0 0])
+  ("1.0" .
+   [1 0 0])
+  ("sqrt-iter-new" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("else-clause" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("then-clause" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("predicate" .
+   [0 0 0 0 1 0 0 0 0])
+  ("cond" .
+   [1 0 0 0])
+  ("improve" .
+   [0 0 0 0 1 0 0])
+  ("sqrt-iter" .
+   [0 0 0 1 0 1 1 0 0])
+  ("good-enough?" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("sqrt" .
+   [0 0 0 3])
+  ("average" .
+   [0 0 0 0 0 1 0])
+  ("square" .
+   [1 0 0 0 1 0])
+  ("abs" .
+   [1 0 0])
+  ("define" .
+   [5 0 0 2 1 0])
+  ("display" .
+   [0 0 0 0 0 1 0])
+  ("perfs" .
+   [0 0 0 1 0])
+  ("sizes" .
+   [1 0 0 0 1])
+  ("size" .
+   [1 0 0 0])
+  ("words_by_freq" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("perfomance" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("pylab" .
+   [1 0 0 3 2])
+  ("categories" .
+   [1 0 0 0 0 1 0 0 0 0])
+  ("brown" .
+   [1 0 0 1 1])
+  ("list" .
+   [1 0 0 0])
+  ("baseline_tagger" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("nltk" .
+   [7 0 0 0])
+  ("wordlist" .
+   [0 0 0 0 0 1 0 0])
+  ("max" .
+   [1 0 0])
+  ("word" .
+   [14 0 2 1])
+  ("dict" .
+   [2 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("define-key" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("p" .
+   [3])
+  ("click_link" .
+   [0 0 0 0 2 0 1 0 0 0])
+  ("have_selector" .
+   [0 0 0 0 0 0 3 0 0 0 1 0 0])
+  ("should" .
+   [2 0 0 1 0 1])
+  ("page" .
+   [4 0 0 0])
+  ("visit" .
+   [0 0 0 0 1])
+  ("do" .
+   [22 0])
+  ("it" .
+   [2 0])
+  ("post" .
+   [1 0 0 0])
+  ("redirect_to" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  ("method" .
+   [1 0 0 0 2 0])
+  ("queue_name" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("True" .
+   [6 0 3 0])
+  ("exclusive" .
+   [0 0 0 0 0 1 1 0 0])
+  ("queue_declare" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("queue" .
+   [0 0 2 4 1])
+  ("result" .
+   [2 0 0 0 3 1])
+  ("type" .
+   [3 0 0 0])
+  ("exchange_declare" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("exchange" .
+   [0 0 0 0 0 2 2 0])
+  ("channel" .
+   [0 0 0 1 1 4 4])
+  ("host" .
+   [2 0 0 0])
+  ("ConnectionParameters" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("BlockingConnection" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("connection" .
+   [0 0 0 0 0 2 9 0 0 0])
+  ("pika" .
+   [7 0 0 0])
+  ("env" .
+   [0 0 3])
+  ("bin" .
+   [0 0 3])
+  ("usr" .
+   [0 0 3])
+  ("menuEnd" .
+   [1 0 0 0 0 0 0])
+  ("nose" .
+   [1 0 0 0])
+  ("if" .
+   [11 0])
+  ("Item" .
+   [0 0 0 1])
+  ("sales_tax" .
+   [0 0 0 0 1 0 0 0 0])
+  ("sum_price" .
+   [0 0 0 0 1 0 0 0 0])
+  ("sum" .
+   [1 0 0])
+  ("price" .
+   [3 0 0 1 2])
+  ("index" .
+   [9 0 0 1 1])
+  ("main" .
+   [1 0 0 0])
+  ("raise" .
+   [2 0 0 0 0])
+  ("done" .
+   [1 0 0 0])
+  ("stop" .
+   [2 0 0 0])
+  ("stdout" .
+   [0 0 0 0 1 0])
+  ("startLogging" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("connect" .
+   [0 0 0 0 0 1 1])
+  ("8750" .
+   [1 0 0 0])
+  ("TCP4ClientEndpoint" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("TCP4ServerEndpoint" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("endpoints" .
+   [1 0 0 0 0 0 0 0 0])
+  ("endpoint" .
+   [0 0 0 1 2 0 0 0])
+  ("Factory" .
+   [0 0 0 0 2 0 0])
+  ("AMP" .
+   [0 0 2])
+  ("amp" .
+   [1 0 0])
+  ("python" .
+   [0 0 0 0 4 0])
+  ("argv" .
+   [3 0 0 0])
+  ("sys" .
+   [10 0 2])
+  ("wcProcess" .
+   [0 0 0 1 0 0 0 0 0])
+  ("WCProcessProtocol" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("receiveCounts" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("chars" .
+   [2 0 0 1 0])
+  ("words" .
+   [5 0 0 1 0])
+  ("fieldLength" .
+   [0 0 0 0 0 4 0 0 0 0 0])
+  ("int" .
+   [7 0 0])
+  ("data" .
+   [2 0 1 1])
+  ("len" .
+   [4 0 0])
+  ("connectionMade" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("text" .
+   [18 0 1 3])
+  ("print" .
+   [32 0 0 0 1])
+  ("xmlrpclib" .
+   [0 0 0 0 0 0 0 1 0])
+  ("server" .
+   [3 0 0 0 0 1])
+  ("xmlrpc" .
+   [0 0 0 0 0 1])
+  ("xml" .
+   [1 0 0])
+  ("fsf" .
+   [1 0 0])
+  ("serviceCollection" .
+   [0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("setServiceParent" .
+   [0 0 0 1 2 0 1 0 0 0 0 0 0 0 0 0])
+  ("79" .
+   [2 0])
+  ("TCPServer" .
+   [0 0 0 1 2 0 0 0 0])
+  ("IServiceCollection" .
+   [0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gid" .
+   [2 0 0])
+  ("uid" .
+   [2 0 0])
+  ("Application" .
+   [0 0 0 0 5 0 0 0 0 0 0])
+  ("service" .
+   [1 0 0 1 8 2 0])
+  ("application" .
+   [0 0 0 0 2 1 1 0 0 0 0])
+  ("FingerSetterFactory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("moshez" .
+   [1 0 0 0 0 0])
+  ("users" .
+   [3 0 0 1 0])
+  ("setUser" .
+   [0 0 0 0 0 1 0])
+  ("fingerFactory" .
+   [0 0 1 0 0 0 2 0 0 0 0 0 0])
+  ("__init__" .
+   [0 0 0 0 1 5 0 0])
+  ("FingerSetterProtocol" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("status" .
+   [2 0 0 0 9 0])
+  ("factory" .
+   [0 0 0 0 2 0 0])
+  ("line" .
+   [4 0 0 0])
+  ("lines" .
+   [7 0 0 0 0])
+  ("lineReceived" .
+   [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("LineReceiver" .
+   [0 0 0 0 3 0 0 0 0 0 0 0])
+  ("else" .
+   [13 0 0 1])
+  ("user" .
+   [16 0 6 1])
+  ("run" .
+   [5 0 1])
+  ("1079" .
+   [2 0 0 0])
+  ("listenTCP" .
+   [0 0 0 0 0 1 0 0 0])
+  ("ServerFactory" .
+   [0 0 0 0 0 0 3 0 0 0 0 0 0])
+  ("FingerFactory" .
+   [0 0 0 0 0 2 1 2 0 0 0 0 0])
+  ("loseConnection" .
+   [0 0 0 0 3 0 0 0 0 0 0 0 0 0])
+  ("transport" .
+   [0 0 0 2 1 4 0 0 0])
+  ("self" .
+   [113 0 2 6])
+  ("def" .
+   [85 0 1])
+  ("basic" .
+   [1 0 0 3 0])
+  ("FingerProtocol" .
+   [0 0 0 1 0 0 3 1 0 0 0 0 0 0])
+  ("class" .
+   [7 0 1 6 2])
+  ("reactor" .
+   [0 0 0 0 13 0 0])
+  ("protocol" .
+   [0 0 0 1 0 11 0 0])
+  ("import" .
+   [15 0 1 11 18 2])
+  ("internet" .
+   [0 0 0 0 0 12 0 0])
+  ("twisted" .
+   [0 0 0 0 14 0 1])
+  ("from" .
+   [16 0 0 14])
+  ("file" .
+   [11 0 0 0])
+  ("defer" .
+   [2 0 0 0 0])
+  ("protocols" .
+   [0 0 0 0 0 1 0 1 0])
+  ("getUser" .
+   [2 0 0 0 2 1 0])
+  ("onError" .
+   [0 0 2 0 0 0 0])
+  ("err" .
+   [2 0 0])
+  ("return" .
+   [17 0 0 12 2 0])
+  ("addErrback" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("writeResponse" .
+   [0 0 0 1 0 0 1 0 0 0 0 0 0])
+  ("message" .
+   [1 0 0 1 2 4 0])
+  ("write" .
+   [3 0 0 0 0])
+  ("addCallback" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("FingerService" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("Service" .
+   [0 0 0 0 2 0 1])
+  ("filename" .
+   [3 0 0 0 0 0 0 0])
+  ("for" .
+   [15 0 0])
+  ("in" .
+   [16 0])
+  ("strip" .
+   [3 0 0 0 0])
+  ("_read" .
+   [2 0 0 0 0])
+  ("startService" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("stopService" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("call" .
+   [3 0 0 2])
+  ("succeed" .
+   [0 0 0 0 0 1 0])
+  ("get" .
+   [1 0 0])
+  ("getFingerFactory" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("finger" .
+   [3 0 0 0 0 0])
+  ("RomanNumeralTest" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("unittest" .
+   [0 0 0 0 1 2 0 0])
+  ("TestCase" .
+   [0 0 0 0 0 1 0 0])
+  ("setUp" .
+   [0 0 0 0 2])
+  ("cvt" .
+   [3 0 3])
+  ("RomanNumeralConverter" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("convert_to_roman" .
+   [0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0])
+  ("convert_to_decimal" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("4000" .
+   [2 0 0 0])
+  ("Exception" .
+   [0 0 0 1 2 1 0 0 0])
+  ("4001" .
+   [1 0 0 0])
+  ("edge" .
+   [6 0 1 0])
+  ("edges" .
+   [1 0 2 6 0])
+  ("checkout_edge" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("input" .
+   [1 0 0 3 0])
+  ("output" .
+   [0 0 0 2 0 0])
+  ("assertEquals" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("elif" .
+   [1 0 0 2])
+  ("args" .
+   [2 0 0 0])
+  ("exception" .
+   [0 0 0 1 1 0 0 0 0])
+  ("assertRaises" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("__name__" .
+   [0 0 0 0 0 1 0 0])
+  ("suite" .
+   [1 0 0 1 0])
+  ("TestLoader" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("loadTestsFromTestCase" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("TextTestRunner" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("verbosity" .
+   [0 0 0 1 0 0 0 0 0])
+  ("object" .
+   [6 0 0 0 2 0])
+  ("items" .
+   [4 0 0 6 0])
+  ("item" .
+   [5 0 0 0])
+  ("rstr" .
+   [0 0 0 1])
+  ("menuTxt" .
+   [0 0 0 1 1 3 0])
+  ("config" .
+   [3 0 0 2 1 0])
+  ("menuKill" .
+   [0 0 0 0 0 2 0 0])
+  ("processAction" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("start" .
+   [2 0 0 0 1])
+  ("resp" .
+   [0 0 0 6])
+  ("resources" .
+   [1 0 0 5 9 5 0 0 2])
+  ("request" .
+   [2 0 0 8 1 0 0])
+  ("current" .
+   [0 0 0 1 1 0 0])
+  ("currentMenu" .
+   [0 0 0 0 1 1 0 0 2 0 0])
+  ("menuKillTxt" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("pass" .
+   [3 0 0 0])
+  ("menuKilled" .
+   [2 0 0 0 0 1 0 0 0 0])
+  ("ussdRequestString" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("menuKilledTxt" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("menuDead" .
+   [1 0 0 0 0 0 1 0])
+  ("try" .
+   [1 0 1])
+  ("ez_setup" .
+   [0 0 1 0 0 0 0 0])
+  ("except" .
+   [0 0 0 0 1 2])
+  ("setup" .
+   [0 0 0 1 0])
+  ("name" .
+   [5 0 0 0])
+  ("author" .
+   [0 0 0 0 2 0])
+  ("private" .
+   [1 0 0 0 0 2 0])
+  ("params" .
+   [5 0 3 1 12 1])
+  ("require" .
+   [1 0 0 4 0 2 0])
+  ("email" .
+   [2 0 0 3 0])
+  ("password" .
+   [0 0 0 0 10 0 0 0])
+  ("password_confirmation" .
+   [0 0 0 0 0 0 0 0 0 6 0 1 2 0 0 0 0 0 0 0 0])
+  ("not" .
+   [1 0 0])
+  ("binding_keys" .
+   [0 0 0 0 0 3 0 0 0 0 0 0])
+  ("callback" .
+   [0 0 0 0 2 0 0 0])
+  ("basic_ack" .
+   [0 0 0 1 0 0 0 0 0])
+  ("basic_consume" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("no_ack" .
+   [1 0 0 0 0 0])
+  ("callback_queue" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0])
+  ("on_response" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("ch" .
+   [1 0])
+  ("props" .
+   [1 0 0 0 1])
+  ("body" .
+   [3 0 0 0])
+  ("correlation_id" .
+   [0 0 0 0 1 2 0 0 0 0 0 0 0 0])
+  ("response" .
+   [2 0 0 0 2 5 0 0])
+  ("corr_d" .
+   [0 0 0 0 1 0])
+  ("corr_id" .
+   [1 0 0 0 1 0 0])
+  ("str" .
+   [5 0 0])
+  ("uuid" .
+   [1 0 0 1])
+  ("basic_publish" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("routing_key" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("properties" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("BasicProperties" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("reply_to" .
+   [0 0 0 0 1 0 0 0])
+  ("while" .
+   [1 0 1 0 0])
+  ("None" .
+   [8 0 0 2])
+  ("FibonacciRpcClient" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("fibonacci_rpc" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("describe" .
+   [0 0 0 0 6 0 0 0])
+  ("before" .
+   [0 0 0 4 0 0])
+  ("should_not" .
+   [0 0 0 0 0 0 0 3 1 0])
+  ("be_valid" .
+   [0 0 0 3 0 0 0 0])
+  ("nil" .
+   [6 0 0])
+  ("save" .
+   [4 0 0 0])
+  ("User" .
+   [0 0 0 1])
+  ("found_user" .
+   [0 0 0 1 0 1 0 0 0 0])
+  ("authenticate" .
+   [0 0 0 0 0 2 0 0 0 0 0 0])
+  ("let" .
+   [1 0 0])
+  ("user_for_invalid_password" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("my_module" .
+   [0 0 0 0 0 1 0 0 0])
+  ("segs" .
+   [17 0 0 0])
+  ("pos" .
+   [3 0 0])
+  ("range" .
+   [4 0 0 0 0])
+  ("flip" .
+   [1 0 0 0])
+  ("randint" .
+   [1 0 0 0 0 1 0])
+  ("temperature" .
+   [0 0 0 2 1 2 0 0 0 0 0])
+  ("float" .
+   [1 0 0 1 0])
+  ("iterations" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("flip_n" .
+   [1 0 0 0 0 0])
+  ("round" .
+   [1 0 0 0 0])
+  ("evaluate" .
+   [0 0 0 0 0 0 2 0])
+  ("guess" .
+   [2 0 2 5 1])
+  ("score" .
+   [3 0 0 0 0])
+  ("best" .
+   [3 0 0 0])
+  ("best_segs" .
+   [0 0 0 0 0 0 1 1 0])
+  ("cooling_rate" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("lxml" .
+   [1 0 0 0])
+  ("etree" .
+   [2 0 0 0 0])
+  ("tree" .
+   [1 0 0 0])
+  ("SOURCE" .
+   [0 0 1 0 0 0])
+  ("sorted" .
+   [1 0 0 0 0 0])
+  ("idMap" .
+   [0 0 0 2 0])
+  ("id" .
+   [5 0])
+  ("format" .
+   [2 0 0 0 0 1])
+  ("elt" .
+   [1 0 0])
+  ("pretty_print" .
+   [0 0 0 1 1 0 0 0 0 0 0 0])
+  ("movie_reviews" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("all_words" .
+   [1 0 0 0 0 0 0 0 0])
+  ("set" .
+   [1 0 0])
+  ("document" .
+   [2 0 0 0 0 2 3 1])
+  ("word_features" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("features" .
+   [0 0 0 5 0 0 0 0])
+  ("document_words" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("sentence" .
+   [0 0 0 0 0 1 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("ldap" .
+   [4 0 0 0])
+  ("and" .
+   [1 0 0])
+  ("user_dn" .
+   [0 0 0 0 0 1 0])
+  ("user_pw" .
+   [0 0 0 0 1 0 0])
+  ("finally" .
+   [0 0 0 0 1 0 0])
+  ("unbind" .
+   [0 0 0 1 0 0])
+  ("proc" .
+   [4 0 0 0])
+  ("binding" .
+   [1 0 0 0 0 0 0])
+  ("event" .
+   [2 0 0 1 0])
+  ("klass" .
+   [0 0 0 1 0])
+  ("set_trace_func" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("proc_object" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("open" .
+   [4 0 0 0])
+  ("authors" .
+   [0 0 0 0 1 1 0])
+  ("REXML" .
+   [0 0 0 3 0])
+  ("doc" .
+   [1 0 0])
+  ("block" .
+   [7 0 0 4 0])
+  ("path_actions" .
+   [0 0 1 0 1 0 0 0 0 0 0 0])
+  ("path" .
+   [5 0 0 1])
+  ("before_action" .
+   [0 0 0 0 1 0 0 0 1 0 0 0 0])
+  ("after_action" .
+   [0 0 0 0 0 0 2 0 0 0 0 0])
+  ("File" .
+   [5 0 0 0])
+  ("xml_file_path" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("Document" .
+   [0 0 0 0 0 1 0 0])
+  ("run_path_actions" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("XPath" .
+   [0 0 0 1 0])
+  ("element" .
+   [0 0 0 0 0 0 1])
+  ("XmlRipper" .
+   [0 0 0 1 0 0 0 0 0])
+  ("new" .
+   [4 0 0])
+  ("on_path" .
+   [0 0 1 1 0 0 0])
+  ("ripper" .
+   [1 0 0 0 0 0])
+  ("events" .
+   [2 0 0 0 1 0])
+  ("metrics" .
+   [1 0 0 0 0 1 1])
+  ("db_create_event" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("db_process_events" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("metricHandler" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("HeartBeat" .
+   [0 0 0 0 1 2 0 0 0])
+  ("metric" .
+   [1 0 0 0 14 1])
+  ("period" .
+   [1 0 0 0 0 1])
+  ("start_time" .
+   [0 0 0 0 1 3 2 0 0 0])
+  ("blue" .
+   [0 1 0 0])
+  ("text-decoration" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("none" .
+   [1 0 0 0])
+  ("ul" .
+   [1 0])
+  ("hover" .
+   [0 0 2 0 0])
+  ("right" .
+   [2 0 1 0 0])
+  ("div" .
+   [1 0 0])
+  ("dialog" .
+   [1 0 0 0 0 0])
+  ("form" .
+   [0 0 0 1])
+  ("type=" .
+   [1 0 0 0 0])
+  ("kwargs" .
+   [0 0 0 3 1 0])
+  ("100%" .
+   [0 0 0 1])
+  ("position" .
+   [0 0 0 0 1 0 0 0])
+  ("relative" .
+   [0 0 0 0 1 0 0 0])
+  ("margin-left" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("table" .
+   [2 0 0 0 0])
+  ("small" .
+   [1 0 0 0 0])
+  ("bold" .
+   [0 0 1 0])
+  ("thead" .
+   [1 0 0 0 0])
+  ("people" .
+   [1 0 0 0 0 0])
+  ("string" .
+   [1 0 0 0 0 0])
+  ("store_photo" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("file_data" .
+   [0 0 0 0 6 1 0 0 0])
+  ("photo" .
+   [0 0 0 0 1])
+  ("unless" .
+   [2 0 0 0 0 0])
+  ("extension" .
+   [0 0 0 0 0 2 1 0 0])
+  ("last" .
+   [1 0 0 0])
+  ("PHOTO_STORE" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("photo_filename" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("background-color" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("FFF" .
+   [1 0 0])
+  ("DB4327" .
+   [0 0 1 0 0 0])
+  ("white" .
+   [0 0 1 0 0])
+  ("flash" .
+   [0 0 0 1 0])
+  ("error" .
+   [0 0 0 1 0])
+  ("Age_On_network" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("5000" .
+   [1 0 0 0])
+  ("max_age" .
+   [0 0 0 1 0 0 0])
+  ("age_network" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("padding-right" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("spreadsheet" .
+   [1 0 0 0 0 0 4 0 0 0 0])
+  ("row" .
+   [3 0 0])
+  ("Hash" .
+   [1 0 0 0])
+  ("header" .
+   [1 0 0 0 0 0])
+  ("open_spreadsheet" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("en" .
+   [3 0])
+  ("case" .
+   [1 0 0 0])
+  ("when" .
+   [3 0 0 0])
+  ("then" .
+   [3 0 0 0])
+  ("ignore" .
+   [1 0 0 0 1 0])
+  ("original_filename" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Roo" .
+   [2 0 0])
+  ("CSV" .
+   [1 0 0])
+  ("first_row" .
+   [0 0 0 0 0 2 0 0 0])
+  ("header_line" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("function" .
+   [0 0 0 0 1 1 0 0])
+  ("this" .
+   [3 0 0 0])
+  ("false" .
+   [1 0 0 0 0])
+  ("BONUS_PACKAGE_IDS" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("package_id" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("BONUS_PACKAGES" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("volume_purchased" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("double_volume_purchased" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("volume" .
+   [1 0 0 0 0 0])
+  ("expiry" .
+   [1 0 0 0 0 0])
+  ("skip_before_filter" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("verify_authenticity_token" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("only" .
+   [2 0 0 1])
+  ("create" .
+   [2 0 0 0 0 0])
+  ("authorize" .
+   [1 0 0 0 0 0 0 0 0])
+  ("download" .
+   [0 0 0 0 1 0 0 0])
+  ("Site" .
+   [1 0 0 0])
+  ("objects" .
+   [1 0 0 0 0 0 0])
+  ("get_current" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("site_name" .
+   [1 0 0 0 0 0 0 0 0])))

@@ -1,3 +1,5 @@
+(add-to-list 'load-path "~/.emacs.d/cl-lib/")
+(require 'cl-lib)
 (add-to-list 'load-path "~/.emacs.d/")
 (add-to-list 'load-path "~/.emacs.d/rhtml")
 (defun my_emacs_color ()
@@ -126,14 +128,14 @@
 
 (setq-default transient-mark-mode t)
 ;;; Lisp (SLIME) interaction
-(setq inferior-lisp-program "clisp")
-(add-to-list 'load-path "~/.slime")
-(require 'slime)
-(slime-setup)
-(global-font-lock-mode t)
-(show-paren-mode 1)
-(add-hook 'lisp-mode-hook '(lambda ()
-	(local-set-key (kbd "RET") 'newline-and-indent)))
+;;(setq inferior-lisp-program "clisp")
+;;(add-to-list 'load-path "~/.slime")
+;;(require 'slime)
+;;(slime-setup)
+;;(global-font-lock-mode t)
+;;(show-paren-mode 1)
+;;(add-hook 'lisp-mode-hook '(lambda ()
+;;	(local-set-key (kbd "RET") 'newline-and-indent)))
 
 
 
@@ -177,9 +179,9 @@
   (folding-mode-add-find-file-hook)
 
 ;;Autocomplete
-(add-to-list 'load-path "/home/wachira/.emacs.d/")
+(add-to-list 'load-path "/home/evanson/.emacs.d/")
 (require 'auto-complete-config)
-(add-to-list 'ac-dictionary-directories "/home/wachira/.emacs.d/ac-dict")
+(add-to-list 'ac-dictionary-directories "/home/evanson/.emacs.d/ac-dict")
 (ac-config-default)
 
 ;; Generate a taglist
